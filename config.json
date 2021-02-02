@@ -1,0 +1,10 @@
+{
+        "prefix": "!",
+        "token": "Nzk4Njc4NzIxMjU0MTI5NzE0.X_4hhQ.6kBLMtXOqJ7aYE7IrQmxXPtWd3Q",
+
+        "conexaodb" : "127.0.0.1",
+        "userdb" : "root",
+        "senhadb" : "",
+        "db" : "dragonresources"
+      
+}

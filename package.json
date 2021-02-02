@@ -1,0 +1,21 @@
+{
+  "name": "dragonresources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ŇØVΔҜ | 𝗗𝗿𝗮𝗴𝗼𝗻 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀#5812",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.6.4",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "opusscript": "0.0.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
